@@ -1,1 +1,1 @@
-firebase ml kit text recognition
+Firebase ml kit text recognition
